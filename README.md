@@ -4,10 +4,11 @@
 ### 🛠 Tools:
 - JavaScript
 - HTML5
+- CSS
 
 <p align="center">
   <a href="" rel="noopener">
-  <video width=600px height=300px src="SpeechDetection.mp4" autoplay></a>
+  <img width=600px height=300px src="image.gif" ></a>
 </p>
 
 ### Author
